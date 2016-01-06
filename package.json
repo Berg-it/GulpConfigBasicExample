@@ -1,0 +1,31 @@
+{
+  "name": "gulp-config-example",
+  "version": "1.0.0",
+  "description": "this project is used to show you an example of config with gulp and it's basic config",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Berg-it/GulpConfigBasicExample.git"
+  },
+  "keywords": [
+    "gulp",
+    "config",
+    "example",
+    "node.js"
+  ],
+  "author": "Muhamed Amine Berguiga <m.a.berguiga@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Berg-it/GulpConfigBasicExample/issues"
+  },
+  "homepage": "https://github.com/Berg-it/GulpConfigBasicExample#readme",
+  "devDependencies": {
+    "gulp": "3.9.0",
+    "gulp-concat": "2.6.0",
+    "gulp-rename": "1.2.2",
+    "gulp-uglify": "1.5.1"
+  }
+}
